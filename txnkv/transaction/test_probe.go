@@ -22,7 +22,7 @@ import (
 
 	"github.com/tikv/client-go/v2/internal/locate"
 	"github.com/tikv/client-go/v2/internal/retry"
-	"github.com/tikv/client-go/v2/internal/unionstore"
+	"github.com/tikv/client-go/v2/unionstore"
 	"github.com/tikv/client-go/v2/tikvrpc"
 	"github.com/tikv/client-go/v2/txnkv/txnsnapshot"
 )
